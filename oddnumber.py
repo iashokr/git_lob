@@ -7,6 +7,7 @@ class Demo:
         self.__acc_no=acc_no
         self.__pin=pin
         print("hello")
+        print("bye")
 
     def getter(self):
         return self.__acc_no,self.__pin
